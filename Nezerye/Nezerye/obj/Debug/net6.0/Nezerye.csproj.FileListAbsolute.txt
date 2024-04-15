@@ -1,0 +1,14 @@
+C:\Users\Hp\OneDrive\Desktop\Nezerye\Nezerye\bin\Debug\net6.0\Nezerye.exe
+C:\Users\Hp\OneDrive\Desktop\Nezerye\Nezerye\bin\Debug\net6.0\Nezerye.deps.json
+C:\Users\Hp\OneDrive\Desktop\Nezerye\Nezerye\bin\Debug\net6.0\Nezerye.runtimeconfig.json
+C:\Users\Hp\OneDrive\Desktop\Nezerye\Nezerye\bin\Debug\net6.0\Nezerye.dll
+C:\Users\Hp\OneDrive\Desktop\Nezerye\Nezerye\bin\Debug\net6.0\Nezerye.pdb
+C:\Users\Hp\OneDrive\Desktop\Nezerye\Nezerye\obj\Debug\net6.0\Nezerye.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Desktop\Nezerye\Nezerye\obj\Debug\net6.0\Nezerye.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Desktop\Nezerye\Nezerye\obj\Debug\net6.0\Nezerye.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Desktop\Nezerye\Nezerye\obj\Debug\net6.0\Nezerye.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Desktop\Nezerye\Nezerye\obj\Debug\net6.0\Nezerye.dll
+C:\Users\Hp\OneDrive\Desktop\Nezerye\Nezerye\obj\Debug\net6.0\refint\Nezerye.dll
+C:\Users\Hp\OneDrive\Desktop\Nezerye\Nezerye\obj\Debug\net6.0\Nezerye.pdb
+C:\Users\Hp\OneDrive\Desktop\Nezerye\Nezerye\obj\Debug\net6.0\Nezerye.genruntimeconfig.cache
+C:\Users\Hp\OneDrive\Desktop\Nezerye\Nezerye\obj\Debug\net6.0\ref\Nezerye.dll

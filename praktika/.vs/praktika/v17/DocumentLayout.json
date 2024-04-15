@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\praktika\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6FA924-B98E-498D-8AF0-A4B41B8781DD}|praktika\\praktika.csproj|c:\\users\\hp\\onedrive\\desktop\\praktika\\praktika\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E6FA924-B98E-498D-8AF0-A4B41B8781DD}|praktika\\praktika.csproj|solutionrelative:praktika\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6FA924-B98E-498D-8AF0-A4B41B8781DD}|praktika\\praktika.csproj|c:\\users\\hp\\onedrive\\desktop\\praktika\\praktika\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E6FA924-B98E-498D-8AF0-A4B41B8781DD}|praktika\\praktika.csproj|solutionrelative:praktika\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6FA924-B98E-498D-8AF0-A4B41B8781DD}|praktika\\praktika.csproj|c:\\users\\hp\\onedrive\\desktop\\praktika\\praktika\\exceptions\\wronginputexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E6FA924-B98E-498D-8AF0-A4B41B8781DD}|praktika\\praktika.csproj|solutionrelative:praktika\\exceptions\\wronginputexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WrongInputException.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\praktika\\praktika\\Exceptions\\WrongInputException.cs",
+              "RelativeDocumentMoniker": "praktika\\Exceptions\\WrongInputException.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\praktika\\praktika\\Exceptions\\WrongInputException.cs",
+              "RelativeToolTip": "praktika\\Exceptions\\WrongInputException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T19:56:42.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\praktika\\praktika\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "praktika\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\praktika\\praktika\\Models\\Person.cs",
+              "RelativeToolTip": "praktika\\Models\\Person.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwCwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T19:54:04.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\praktika\\praktika\\Program.cs",
+              "RelativeDocumentMoniker": "praktika\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\praktika\\praktika\\Program.cs",
+              "RelativeToolTip": "praktika\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T19:46:55.523Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
